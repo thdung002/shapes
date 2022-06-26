@@ -1,0 +1,12 @@
+{
+  "api": {
+    "listen": ":8800",
+    "listenTLS": ":8000",
+    "tlsEnabled": false
+  },
+  "defender": {
+    "max": 10,
+    "duration": 60,
+    "ban_duration": 60
+  }
+}
